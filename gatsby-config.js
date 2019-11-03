@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `kat's portfolio | ux + digital`,
-        description: `A starter powered by Gatsby and Prismic to showcase portfolios and blogs.`,
-    author: `Marguerite Roth | marguerite.io`,
+    title: `Katryn Relleve | UX & Digital Design`,
+        description: `Katryn Relleve is a User Experience Designer based in Ontario, Canada.`,
+    author: `Katryn Relleve | bykat.design`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
