@@ -49,7 +49,7 @@ const FooterSpooch = styled("img")`
 const Footer = () => (
     <FooterContainer>
         <FooterAuthor href="https://marguerite.io">
-            © 2019 — Prist Starter by Margeurite Roth.
+            © 2019 — Prist Starter by Margeurite Roth
         </FooterAuthor>
     </FooterContainer>
 )
